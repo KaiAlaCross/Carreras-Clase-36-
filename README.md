@@ -1,1 +1,2 @@
-# Carreras-Clase-36-
+# MovimientoSincronoDelaPelota
+Movimiento de la pelota de forma síncrona
